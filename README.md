@@ -37,4 +37,6 @@
 #### Step 6. Deploy Dashboard and Record Final Presentation (link below)
 ## Final Presentation and Dashboard
 ## Insights
+### Weather
+
 ## Recommendations for Further Research
