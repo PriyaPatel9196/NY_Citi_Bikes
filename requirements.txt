@@ -7,4 +7,4 @@ numerize==0.12
 pillow==9.4.0
 scipy==1.14.1
 spacy==3.4.3
-
+numpy==2.2.0
