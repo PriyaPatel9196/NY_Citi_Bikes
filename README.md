@@ -36,7 +36,11 @@
 #### Step 5. Execute Python Script to Create Dashboard
 #### Step 6. Deploy Dashboard and Record Final Presentation (link below)
 ## Final Presentation and Dashboard
+#### Dashboard: http://localhost:8501/
+#### Presentation:
 ## Insights
 ### Weather
+![daily_bike_rides_jersey_city](https://github.com/user-attachments/assets/ef2402d5-9736-493a-88af-00eb3bc8f53b)
+
 
 ## Recommendations for Further Research
