@@ -37,7 +37,7 @@
 #### Step 6. Deploy Dashboard and Record Final Presentation (link below)
 ## Final Presentation and Dashboard
 #### Dashboard: http://localhost:8501/
-#### Presentation: https://youtu.be/L2cN1rUKdA0
+#### Presentation: [https://youtu.be/L2cN1rUKdA0](https://www.youtube.com/watch?v=L2cN1rUKdA0&ab_channel=PriyaPatel)
 ## Insights
 ### Weather
 ![daily_bike_rides_jersey_city](https://github.com/user-attachments/assets/ef2402d5-9736-493a-88af-00eb3bc8f53b)
